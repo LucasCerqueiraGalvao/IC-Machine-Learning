@@ -1,7 +1,7 @@
 from yahooquery import Ticker
 import pandas as pd
 
-# Obtenção de dados do Yahoo Finance usando o YahooQuery
+# Obtenção de dados do Yahoo Finance usando o YahooQuery.
 petr = Ticker('PETR4.SA')
 
 # Listar diferentes tipos de dados disponíveis para a PETR4
