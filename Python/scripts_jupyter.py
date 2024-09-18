@@ -9,3 +9,9 @@ y = x * 2
 print(y)
 
 # %%
+
+import xlsxwriter
+print(xlsxwriter.__version__)
+
+
+# %%

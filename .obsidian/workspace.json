@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "9f0f2db31e6643da",
+    "type": "split",
+    "children": [
+      {
+        "id": "daf3e442667256ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c545780d9a038583",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d7d0507012d6198",
+    "type": "split",
+    "children": [
+      {
+        "id": "9659902f70c8855f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0adbb28b9a55e6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0301f7aeaaeda97d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05ac6eba59b315c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "596b6e9d4df0a4cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf53fb1cfa0d6e99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3ab5122bca73f24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "402d1376a52bb776",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b25a50e6fbf0be14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "860513c25148b91a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c545780d9a038583",
+  "lastOpenFiles": [
+    "Planilhas/history_PETR4_2024.09.17.csv",
+    "Planilhas/~$history_PETR4_2024.09.17.xlsx",
+    "Planilhas/history_PETR4_2024.09.17.xlsx",
+    "Python/historico.py",
+    "Planilhas/~$dados_PETR4_2024.09.17.xlsx",
+    "Python/teste.py",
+    "Planilhas/dados_PETR4_2024.09.17.xlsx",
+    "Organização/Cronograma.md"
+  ]
+}
