@@ -6,16 +6,45 @@
       {
         "id": "daf3e442667256ed",
         "type": "tabs",
+        "dimension": 67.36577181208054,
         "children": [
           {
             "id": "c545780d9a038583",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organização/Cronograma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "33e52dea2ab32f45",
+        "type": "tabs",
+        "dimension": 32.63422818791946,
+        "children": [
+          {
+            "id": "3a50ef1adb6533a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b44c421aca1deab5",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Organização/Cronograma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Organização/Cronograma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Organização/Cronograma.md"
+              }
             }
           }
         ]
@@ -131,22 +164,35 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "graph:Abrir visualização em gráfico": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "vscode-editor:Create Code File": false,
+      "excel:Create Excel File": false,
+      "univer:Univer": false
     }
   },
   "active": "c545780d9a038583",
   "lastOpenFiles": [
-    "Planilhas/history_PETR4_2024.09.17.csv",
-    "Planilhas/~$history_PETR4_2024.09.17.xlsx",
-    "Planilhas/history_PETR4_2024.09.17.xlsx",
-    "Python/historico.py",
-    "Planilhas/~$dados_PETR4_2024.09.17.xlsx",
-    "Python/teste.py",
+    "Textos de Pesquisa/Etapa 2 Coleta e Organização dos Dados.md",
+    "Textos de Pesquisa/Etapa 1 Pesquisa e Revisão Bibliográfica.md",
+    "Python/history_PETR4_2024.09.17.py",
+    "Python/dados_PETR4_2024.09.17.py",
     "Planilhas/dados_PETR4_2024.09.17.xlsx",
-    "Organização/Cronograma.md"
+    "Planilhas/history_PETR4_2024.09.17.xlsx",
+    "Planilhas/~$history_PETR4_2024.09.17.xlsx",
+    "Organização/Mapa Mental Canvas.canvas",
+    "Organização/Guia de cores.md",
+    "Análises/Script para coleta de dados.md",
+    "Planilhas/~$dados_PETR4_2024.09.17.xlsx",
+    "Organização/Cronograma.md",
+    "Python/coleta_dados.py.md",
+    "Planilhas/37B32100",
+    "Planilhas/history_PETR4_2024.09.17.csv",
+    "Python/historico.py",
+    "Python/teste.py"
   ]
 }
