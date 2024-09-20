@@ -6,17 +6,20 @@
       {
         "id": "daf3e442667256ed",
         "type": "tabs",
-        "dimension": 67.36577181208054,
+        "dimension": 81.04026845637584,
         "children": [
           {
             "id": "c545780d9a038583",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Organização/Cronograma.md",
-                "mode": "source",
-                "source": false
+                "file": "Organização/Mapa Mental Canvas.canvas",
+                "viewState": {
+                  "x": 424.54160271230364,
+                  "y": 126.5887605560502,
+                  "zoom": -1.285019226202671
+                }
               }
             }
           }
@@ -25,7 +28,7 @@
       {
         "id": "33e52dea2ab32f45",
         "type": "tabs",
-        "dimension": 32.63422818791946,
+        "dimension": 18.959731543624162,
         "children": [
           {
             "id": "3a50ef1adb6533a4",
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organização/Cronograma.md",
+                "file": "Organização/Mapa Mental Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organização/Cronograma.md",
+                "file": "Organização/Mapa Mental Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organização/Cronograma.md"
+                "file": "Organização/Mapa Mental Canvas.canvas"
               }
             }
           }
@@ -171,24 +174,23 @@
       "command-palette:Abrir paleta de comandos": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "vscode-editor:Create Code File": false,
-      "excel:Create Excel File": false,
       "univer:Univer": false
     }
   },
   "active": "c545780d9a038583",
   "lastOpenFiles": [
+    "Organização/Mapa Mental Canvas.canvas",
     "Textos de Pesquisa/Etapa 2 Coleta e Organização dos Dados.md",
     "Textos de Pesquisa/Etapa 1 Pesquisa e Revisão Bibliográfica.md",
-    "Python/history_PETR4_2024.09.17.py",
     "Python/dados_PETR4_2024.09.17.py",
     "Planilhas/dados_PETR4_2024.09.17.xlsx",
     "Planilhas/history_PETR4_2024.09.17.xlsx",
+    "Organização/Cronograma.md",
+    "Python/history_PETR4_2024.09.17.py",
     "Planilhas/~$history_PETR4_2024.09.17.xlsx",
-    "Organização/Mapa Mental Canvas.canvas",
     "Organização/Guia de cores.md",
     "Análises/Script para coleta de dados.md",
     "Planilhas/~$dados_PETR4_2024.09.17.xlsx",
-    "Organização/Cronograma.md",
     "Python/coleta_dados.py.md",
     "Planilhas/37B32100",
     "Planilhas/history_PETR4_2024.09.17.csv",
